@@ -1,0 +1,20 @@
+Crawl4AI Setup Process:
+
+1. Environment Setup:
+   - Rename .env.txt to .env
+   - Add your Groq API key to .env file
+
+2. Virtual Environment Creation and Activation:
+   - Create virtual environment
+   - Activate virtual environment
+   - Install requirements
+   - Install additional dependencies
+
+3. Test Configuration:
+   - Create test_crawl.py with proper configuration
+   - Run test script to verify setup
+
+Detailed steps are automated in fix.bat
+Run fix.bat from the project root directory to automatically set up the environment.
+
+Note: Make sure Python and pip are installed on your system before running fix.bat
